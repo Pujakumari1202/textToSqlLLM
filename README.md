@@ -11,3 +11,8 @@ conda create -p venv python=3.12.4 -y
 conda activate venv/
 
 `````
+
+```bash
+pip install -r requirements.txt
+
+`````
